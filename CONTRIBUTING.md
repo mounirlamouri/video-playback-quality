@@ -1,11 +1,9 @@
 # Web Platform Incubator Community Group
 
-This repository is being used for work in the Web Platform Incubator Community Group, governed by the [W3C Community License 
-Agreement (CLA)](http://www.w3.org/community/about/agreements/cla/). To contribute, you must join 
-the CG. 
+This repository is being used for work in the W3C Web Platform Incubator Community Group, governed by the [W3C Community License Agreement (CLA)](http://www.w3.org/community/about/agreements/cla/). To make substantive contributions, you must join the CG. 
 
 If you are not the sole contributor to a contribution (pull request), please identify all 
-contributors in the pull request's body or in subsequent comments.
+contributors in the pull request comment.
 
 To add a contributor (other than yourself, that's automatic), mark them one per line as follows:
 
